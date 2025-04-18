@@ -1,3 +1,3 @@
 # Timesheet
-Log Software
-![35](https://github.com/user-attachments/assets/cbac1a57-5059-4a7a-9865-eea28d50f74c)
+Log Software.
+![image](https://github.com/user-attachments/assets/45bade2b-3824-4aad-953e-c004e8c82b65)
