@@ -1,7 +1,5 @@
 ## Installation
 
-
-Installation
 1. Install XAMPP with PHP 7.2.0.
 2. Start the Server.
 3. Install Grandtech Creation Healthcare file, Setup.exe path to C:\xampp\htdocs folder.
