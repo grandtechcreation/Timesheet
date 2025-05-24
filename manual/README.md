@@ -2,18 +2,20 @@
 
 1. Install XAMPP with PHP 7.2.0.
 2. Start the Server.
-3. Install Grandtech Creation Timesheet file, Setup.exe path to C:\xampp\htdocs folder.
-4. Create Database Called "timesheet".
+3. Install Grandtech Creation Healthcare file, Setup.exe path to C:\xampp\htdocs folder.
+4. Create Database Called "healthcare".
 5. Insert table using database.sql.
-6. Open your browser, go to http://localhost/timesheet.
-7. Click Timesheet Logo.
-8. Get Your Account.
-9. Print Account Detail.
-10. Login using Username and Password.
-11. Go to Timesheet menu. 
-12. Click + Button.
-13. Write your current task. 
-14. Stop the Stopwatch.
-15. Finish.
+6. Open your browser, go to http://localhost/Healthcare.
+7. Get Your Account.
+8. Print Account Detail.
+9. Login using Username and Password.
+10. Go to Billing menu.
+11. Click + Button.
+12. Click + On Bill To. Fill the form, then Record.
+13. Back to Billing menu, Click + Button.
+14. Click Patient Name, Select name, then Click Record. 
+15. Click Not Yet.
+16. Click + Button. Click PATIENT ROOM. Click + Button. Fill the form, then Record.
+17. Back to the patient name MEDICAL SERVICES BILL menu. Click + Button. Click PATIENT ROOM. Click + in action Button. Click TRANSACTION. Click Back Button. Finish.
 
-You are ready to use Grandtech Creation Timesheet.
+You are ready to use Grandtech Creation Healthcare.
