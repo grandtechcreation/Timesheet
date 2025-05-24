@@ -15,7 +15,7 @@
 13. Back to Billing menu, Click + Button.
 14. Click Patient Name, Select name, then Click Record. 
 15. Click Not Yet.
-16. Click + Button. Click PATIENT ROOM. Click + Button. Fill the form, then Record. 
+16. Click + Button. Click PATIENT ROOM. Click + Button. Fill the form, then Record.
 17. Back to MEDICAL SERVICES BILL. Click + Button. Click PATIENT ROOM. Click + Button. Click TRANSACTION. Click Back Button.
 18. Finish.
 
