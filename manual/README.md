@@ -1,5 +1,5 @@
-
 ## Installation
+
 
 Installation
 1. Install XAMPP with PHP 7.2.0.
